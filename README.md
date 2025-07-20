@@ -4,4 +4,4 @@ Projeto Java que consome uma API de filmes e séries para obter e exibir informa
 - ✅ Número total de temporadas
 - ⭐ Avaliação
 
-#Projeto desenvolvido usando a biblioteca Jackson para serialização de dados, interfaces, records, blocos try e catch para tratamento de exceções, entre outros.
+#Projeto desenvolvido usando a biblioteca Jackson para serialização e desserialização de dados, interfaces, records, blocos try e catch para tratamento de exceções, entre outros.
